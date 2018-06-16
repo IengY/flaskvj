@@ -1,7 +1,7 @@
 passconfig={
     "poj":
         {
-            "username":"lengyuwhut",
-            "password":"qq727109404",
+            "username":"",
+            "password":"",
         },
 }
