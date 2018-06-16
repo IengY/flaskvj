@@ -1,5 +1,5 @@
 FROM alpine
-COPY ["wutvj","."]
+COPY ["flaskvj","."]
 RUN apk add --update \
 	bash \
 	python \
